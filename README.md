@@ -18,4 +18,4 @@ Throughout the project, I focused on clean code structure, semantic HTML, and ma
 To complete the assignment, I pushed the entire project to GitHub, maintaining a clear version history with Git. I created a README.md file to explain the project structure, features, and technologies used. This ensured that anyone visiting the repository could easily understand the purpose and components of the project.
 
 Overall, Task 4 provided an excellent opportunity to practice responsive UI development, improve visual design skills, and understand the workflow of building a structured, multi-page web application. It also emphasized the importance of layout planning, user navigation, and front-end consistency, all of which are critical in real-world web development. Completing this task strengthened my ability to deliver functional and user-friendly web interfaces with industry-standard practices
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/b5a7ce0d-666a-4435-b63d-6d91613807fc)

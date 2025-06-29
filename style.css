@@ -1,8 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 0;
-    padding: 20px;
-    background: #f8f8f8;
+    background: #f4f4f4;
   }
   
   header {
@@ -13,15 +12,45 @@ body {
   }
   
   nav a {
-    margin: 0 10px;
     color: white;
+    margin: 0 10px;
     text-decoration: none;
   }
   
-  .course-card {
+  .hero {
+    text-align: center;
+    padding: 40px;
+    background: #0099cc;
+    color: white;
+  }
+  
+  .btn {
     background: white;
-    padding: 15px;
-    margin: 20px 0;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    color: #0099cc;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+  }
+  
+  .course-card, .video-section, .progress-section, .modules {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .progress-bar {
+    background: #ddd;
+    border-radius: 5px;
+    height: 20px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  
+  .progress {
+    background: #28a745;
+    height: 100%;
+    border-radius: 5px;
   }
   
